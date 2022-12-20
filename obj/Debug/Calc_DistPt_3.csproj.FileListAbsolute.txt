@@ -1,0 +1,7 @@
+D:\Geometry Assignments\Calc_DistPt_3\bin\Debug\Calc_DistPt_3.exe.config
+D:\Geometry Assignments\Calc_DistPt_3\bin\Debug\Calc_DistPt_3.exe
+D:\Geometry Assignments\Calc_DistPt_3\bin\Debug\Calc_DistPt_3.pdb
+D:\Geometry Assignments\Calc_DistPt_3\obj\Debug\Calc_DistPt_3.csprojAssemblyReference.cache
+D:\Geometry Assignments\Calc_DistPt_3\obj\Debug\Calc_DistPt_3.csproj.CoreCompileInputs.cache
+D:\Geometry Assignments\Calc_DistPt_3\obj\Debug\Calc_DistPt_3.exe
+D:\Geometry Assignments\Calc_DistPt_3\obj\Debug\Calc_DistPt_3.pdb
